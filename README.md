@@ -1,4 +1,2 @@
-SEW_12-13
-=========
-
-Schuljahr 2012/13
+Learning to use git are:
+Marlene Dorfinger 3.TGM
